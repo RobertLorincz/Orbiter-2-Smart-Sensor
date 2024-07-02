@@ -1,7 +1,7 @@
 # Orbiter-2-Smart-Sensor
 Orbiter 2 Smart Sensor
 
-![Uploading orbiter3.gif…]()
+![orbiter3](https://github.com/RobertLorincz/Orbiter-2-Smart-Sensor/assets/155807093/71ca368d-5e7f-401e-ba3c-1d72bc54aeb9)
 
  
 This is a brand-new sensor design, much improved compared to the previous sensor version.
