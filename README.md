@@ -1,5 +1,5 @@
 # Orbiter-2-Smart-Sensor
-Orbiter 2 Smart Sensor
+
 
 ![orbiter3](https://github.com/RobertLorincz/Orbiter-2-Smart-Sensor/assets/155807093/71ca368d-5e7f-401e-ba3c-1d72bc54aeb9)
 
