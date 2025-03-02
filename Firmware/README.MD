@@ -1,4 +1,4 @@
-This beta firmware version is for use with the smart sensor with MMU unit.
+This beta firmware version is for using the smart sensor with MMU units.
 
 The default firmware has a 1 second filter time on the filament detection signal; this is implemented to avoid multiple triggering of the sensor autoload features due to blobs on the filament tip. This filter time also causes a delay in the filament detection, which is not working well with MMU units with automatic filament change.
 
